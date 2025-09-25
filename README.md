@@ -2,13 +2,13 @@
   <img src=https:"//drive.google.com/file/d/1wmbShfbG320cx2lVWyVFhquXPFj82kxQ/view?usp=sharing" alt="Banner do Perfil"/>
 </p>
 
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou [Ruan Onor ] 👋</h1>
 <p align="center">
   Um entusiasta de tecnologia com foco em DevOps e Cloud, buscando automatizar o mundo, um pipeline de cada vez!
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ruan-onor-148687199/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </p>
