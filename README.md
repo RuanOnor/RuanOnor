@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://drive.google.com/file/d/1wmbShfbG320cx2lVWyVFhquXPFj82kxQ/view?usp=sharing alt="Banner do Perfil"/>
+  <img src=https:"//drive.google.com/file/d/1wmbShfbG320cx2lVWyVFhquXPFj82kxQ/view?usp=sharing" alt="Banner do Perfil"/>
 </p>
 
 <h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
