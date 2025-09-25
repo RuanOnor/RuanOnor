@@ -4,6 +4,13 @@
 <p align="center">
   Um entusiasta de tecnologia com foco em DevOps e Cloud, buscando automatizar o mundo, um pipeline de cada vez!
 </p>
+<!-- Efeito de digitação animado -->
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D35%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DOl%25C3%25A1!%2BEu%2Bsou+[Seu+Nome];Entusiasta+de+DevOps+e+Cloud" alt="Typing SVG" />
+</a>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruan-onor-148687199/">
