@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https:"https://github.com/RuanOnor/imagem-/blob/main/Design%20sem%20nome.jpg" alt="Banner do Perfil"/>
+  <img src=https:https://github.com/RuanOnor/imagem-/blob/main/Design%20sem%20nome.jpg alt="Banner do Perfil"/>
 </p>
 
 <h1 align="center">Olá! Eu sou [Ruan Onor ] 👋</h1>
