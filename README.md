@@ -14,7 +14,7 @@
 - 🌐 Network experience with **Cisco** and **Fortinet FortiGate**
 - 🛠️ IT service management with **GLPI**
 - 📈 Observability with **Prometheus, Grafana and Alertmanager**
-- 🎓 Studying **Computer Networks** at Centro Universitário Senac
+- 🎓 Studying **Computer Networks** at Centro Universitário Senac, plus **Kubernetes & DevOps** at LINUXtips
 - 🗓️ Working in IT infrastructure since **2019**
 - 📍 São Paulo, Brazil
 
@@ -48,6 +48,16 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-002B5C?style=flat-square&logoColor=white)
+
+---
+
+### 📚 Education & Training
+
+| Institution | Program |
+|---|---|
+| 🎓 Centro Universitário Senac | Computer Networks (Undergraduate) |
+| 🛡️ HackOne | Networking & Security |
+| 🐧 LINUXtips | Kubernetes & DevOps |
 
 ---
 
